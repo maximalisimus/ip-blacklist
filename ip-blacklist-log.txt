@@ -131,3 +131,10 @@
 132.145.39.16 - - [28/Aug/2023:01:18:25 +0300] "GET /public/.env HTTP/1.1" 404 146 "-" "-"
 132.145.39.16 - - [28/Aug/2023:01:18:26 +0300] "GET /phpinfo HTTP/1.1" 404 146 "-" "-"
 132.145.39.16 - - [28/Aug/2023:01:18:28 +0300] "GET /phpinfo.php HTTP/1.1" 404 146 "-" "-"
+
+5.181.80.94 - - [30/Aug/2023:16:30:02 +0300] "GET /muieblackcat HTTP/1.1" 404 118 "-" "-"
+5.181.80.94 - - [30/Aug/2023:16:30:02 +0300] "GET //phpMyAdmin/scripts/setup.php HTTP/1.1" 404 118 "-" "-"
+5.181.80.94 - - [30/Aug/2023:16:30:02 +0300] "GET //phpmyadmin/scripts/setup.php HTTP/1.1" 404 118 "-" "-"
+5.181.80.94 - - [30/Aug/2023:16:30:02 +0300] "GET //pma/scripts/setup.php HTTP/1.1" 404 118 "-" "-"
+5.181.80.94 - - [30/Aug/2023:16:30:02 +0300] "GET //myadmin/scripts/setup.php HTTP/1.1" 404 118 "-" "-"
+5.181.80.94 - - [30/Aug/2023:16:30:02 +0300] "GET //MyAdmin/scripts/setup.php HTTP/1.1" 404 118 "-" "-"
