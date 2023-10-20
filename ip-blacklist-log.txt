@@ -404,3 +404,9 @@
 121.196.121.126 - - [05/Oct/2023:18:27:52 +0300] "GET /mysql/admin/index.php?lang=en HTTP/1.1" 301 162 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 121.196.121.126 - - [05/Oct/2023:18:27:52 +0300] "GET /mysql/admin/index.php?lang=en HTTP/2.0" 404 717 "http://185.125.201.102/mysql/admin/index.php?lang=en" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 121.196.121.126 - - [05/Oct/2023:18:27:52 +0300] "GET /PMA/index.php?lang=en HTTP/1.1" 301 162 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+
+64.226.104.62 - - [18/Oct/2023:12:36:06 +0300] "GET /.env HTTP/1.1" 404 254 "-" "python-requests/2.27.1"
+64.226.104.62 - - [18/Oct/2023:12:36:08 +0300] "POST / HTTP/1.1" 404 254 "-" "url"
+64.226.104.62 - - [18/Oct/2023:12:36:09 +0300] "POST /core/.env HTTP/1.1" 404 254 "-" "url"
+64.226.104.62 - - [18/Oct/2023:12:36:12 +0300] "GET /core/.env HTTP/1.1" 404 254 "-" "python-requests/2.27.1"
+64.226.104.62 - - [18/Oct/2023:12:36:13 +0300] "POST / HTTP/1.1" 404 254 "-" "url"
