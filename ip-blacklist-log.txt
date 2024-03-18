@@ -1241,3 +1241,9 @@
 80.82.77.202 - - [08/Mar/2024:17:50:33 +0300] "GET /aaa9 HTTP/1.1" 400 650 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
 80.82.77.202 - - [08/Mar/2024:17:50:33 +0300] "GET /aab9 HTTP/1.1" 404 254 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
 80.82.77.202 - - [08/Mar/2024:17:50:33 +0300] "GET /aab9 HTTP/1.1" 400 650 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+
+47.89.154.16 - - [17/Mar/2024:07:06:32 +0300] "GET /dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB HTTP/1.1" 404 597 "-" "Go-http-client/1.1"
+47.89.154.16 - - [17/Mar/2024:07:06:34 +0300] "POST /dns-query HTTP/1.1" 404 597 "-" "Go-http-client/1.1"
+47.89.154.16 - - [17/Mar/2024:07:06:35 +0300] "GET /dns-query?name=example.com&type=A HTTP/1.1" 404 597 "-" "Go-http-client/1.1"
+47.89.154.16 - - [17/Mar/2024:07:06:37 +0300] "GET /dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB HTTP/1.1" 404 597 "-" "Go-http-client/1.1"
+47.89.154.16 - - [17/Mar/2024:07:06:38 +0300] "POST /dns-query HTTP/1.1" 404 597 "-" "Go-http-client/1.1"
