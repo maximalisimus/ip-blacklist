@@ -1247,3 +1247,8 @@
 47.89.154.16 - - [17/Mar/2024:07:06:35 +0300] "GET /dns-query?name=example.com&type=A HTTP/1.1" 404 597 "-" "Go-http-client/1.1"
 47.89.154.16 - - [17/Mar/2024:07:06:37 +0300] "GET /dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB HTTP/1.1" 404 597 "-" "Go-http-client/1.1"
 47.89.154.16 - - [17/Mar/2024:07:06:38 +0300] "POST /dns-query HTTP/1.1" 404 597 "-" "Go-http-client/1.1"
+
+185.180.143.188 - - [20/Mar/2024:18:23:38 +0300] "GET /js/NewWindow_2_all.js HTTP/1.1" 301 162 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+185.180.143.188 - - [20/Mar/2024:18:23:39 +0300] "GET /js/NewWindow_2_all.js HTTP/1.1" 404 729 "http://185.125.201.102/js/NewWindow_2_all.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+185.180.143.189 - - [20/Mar/2024:22:37:23 +0300] "GET / HTTP/1.1" 301 162 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+185.180.143.189 - - [20/Mar/2024:22:37:23 +0300] "GET / HTTP/1.1" 200 507 "http://185.125.201.102/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
