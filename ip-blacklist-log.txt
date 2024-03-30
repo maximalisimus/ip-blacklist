@@ -1252,3 +1252,13 @@
 185.180.143.188 - - [20/Mar/2024:18:23:39 +0300] "GET /js/NewWindow_2_all.js HTTP/1.1" 404 729 "http://185.125.201.102/js/NewWindow_2_all.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
 185.180.143.189 - - [20/Mar/2024:22:37:23 +0300] "GET / HTTP/1.1" 301 162 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
 185.180.143.189 - - [20/Mar/2024:22:37:23 +0300] "GET / HTTP/1.1" 200 507 "http://185.125.201.102/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+
+139.59.245.200 - - [27/Mar/2024:12:07:00 +0300] "HEAD / HTTP/1.1" 200 0 "-" "curl/7.81.0"
+139.59.245.200 - - [27/Mar/2024:12:07:00 +0300] "GET / HTTP/1.1" 200 4099 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4859.172 Safari/537.36"
+139.59.245.200 - - [27/Mar/2024:12:07:01 +0300] "GET /asset/kcfinder/upload.php HTTP/1.1" 404 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4859.172 Safari/537.36"
+139.59.245.200 - - [27/Mar/2024:12:07:04 +0300] "GET /assets/plugins/kcfinder/upload.php HTTP/1.1" 404 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4859.172 Safari/537.36"
+139.59.245.200 - - [27/Mar/2024:12:07:04 +0300] "GET /plugins/kcfinder/upload.php HTTP/1.1" 404 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4859.172 Safari/537.36"
+139.59.245.200 - - [27/Mar/2024:12:07:05 +0300] "GET /ckeditor/kcfinder/upload.php HTTP/1.1" 404 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4859.172 Safari/537.36"
+139.59.245.200 - - [27/Mar/2024:12:07:06 +0300] "GET /ckeditor/plugins/kcfinder/upload.php HTTP/1.1" 404 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4859.172 Safari/537.36"
+
+185.180.143.188 - - [28/Mar/2024:06:09:12 +0300] "GET / HTTP/1.1" 200 537 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
